@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### OracleForms template
+# Compiled Form Modules
+*.fmx
+
+# Compiled Menu Modules
+*.mmx
+
+# Compiled Pre-Linked Libraries
+*.plx
+
+ignoreme.txt
